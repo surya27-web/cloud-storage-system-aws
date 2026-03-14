@@ -148,9 +148,18 @@ Through this project I learned:
 • How cloud-based file storage systems work
 
 ---
+## Screenshots
 
+### Upload Interface
+![Upload Page](screenshots/upload.png)
+
+### Stored Files
+![Stored Files](screenshots/files.png)
+
+### Upload Progress
+![Upload Progress](screenshots/progress.png)
 ## Author
 
-Surya Karthi
+Surya P
 B.Tech Information Technology
 Cloud Computing Internship Project
